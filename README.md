@@ -4,7 +4,7 @@ This project is a simple Python script that utilizes a multiprocessing library t
 # Installation
 1. Make sure you have Python 3 installed on your system.
 2. Clone this repository: "git clone https://github.com/jasminchitroda/assignment.git"
-3. Navigate to the project directory: "cd project"
+3. Navigate to the project directory: "cd assignment"
 4. Install dependencies: "pip install -r requirements.txt"
 
 # Usage
